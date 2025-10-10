@@ -1,7 +1,9 @@
+ast
 cv2
 json
 numpy
 os
 pandas 
 shutil
+torchvision
 yaml

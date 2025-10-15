@@ -6,6 +6,7 @@ math
 numpy
 os
 pandas 
+shlex
 shutil
 torchvision
 yaml

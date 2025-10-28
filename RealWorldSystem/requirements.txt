@@ -12,4 +12,5 @@ pandas
 shlex
 shutil
 torchvision
+tqdm
 yaml

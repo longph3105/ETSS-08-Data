@@ -2,6 +2,7 @@ ast
 csv
 cv2
 datetime
+fnmatch
 glob
 json
 math

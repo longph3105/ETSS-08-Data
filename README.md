@@ -76,7 +76,7 @@ If you find our work helpful for your research, please consider citing the follo
   author = {Automation Laboratory},
   license = {Apache-2.0},
   title = {Traffic Surveillance Dataset},
-  howpublished = {\url{https://github.com/SKKUAutoLab/ETSS-08-Data}},
+  howpublished = {https://github.com/SKKUAutoLab/ETSS-08-Data},
   year = {2025},
   note = {Data Generation using Carla}
 }

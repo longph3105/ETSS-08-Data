@@ -26,6 +26,7 @@ To execute the Python source code for processing the dataset, install the requir
 | 2024  |  ICDICI | A review on yolov8 and its advancements | [paper](https://link.springer.com/chapter/10.1007/978-981-99-7962-2_39) | YOLOv8 |
 | 2024  |  arXiV  | YOLOv11: An Overview of the Key Architectural Enhancements | [paper](https://arxiv.org/abs/2410.17725) | YOLOv11 |
 | 2024  |  CVPR   | DETRs Beat YOLOs on Real-time Object Detection | [paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.html) | RT-DETR |
+| 2025  |  arXiV  | A Breakdown of the Key Architectural Features | [paper](https://arxiv.org/abs/2502.14740) | YOLOv12 |
 
 
 

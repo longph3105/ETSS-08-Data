@@ -15,7 +15,7 @@
 
 2. Real-world traffic surveillance systems
 
-  ![TSBOW-all-scenes](attachments/Figure_All_Scenes.jpg)
+![](attachments/Figure_All_Scenes.jpg)
 
 
 ## I. Using CARLA

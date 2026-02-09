@@ -2,7 +2,7 @@
 
 We are conducting research to develop a real-world traffic surveillance system.
 
-The first benchmark named [TSBOW](ttps://skkuautolab.github.io/TSBOW/) has been accepted by the 40th AAAI Conference on Artificial Intelligence (AAAI-26). 
+The first benchmark named [TSBOW](ttps://skkuautolab.github.io/TSBOW/) has been accepted by the 40th AAAI Conference on Artificial Intelligence (AAAI-26). Please follow the [guideline](https://github.com/SKKUAutoLab/TSBOW?tab=readme-ov-file#-dataset-download) to access and download the dataset from [HuggingFace](https://huggingface.co/datasets/SKKUAutoLab/TSBOW).
 
 
 <!-- ## Installation

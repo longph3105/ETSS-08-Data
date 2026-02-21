@@ -71,7 +71,7 @@ Please go to [TSBOW-dataset](https://github.com/SKKUAutoLab/TSBOW) repository or
 
 If you find our work helpful for your research, please consider citing the following BibTeX entry.
 
-1. Data Generation
+1. Data Generation using Carla
 
 ```bibtex
 @misc{AutoLab-Dataset-CARLA,

@@ -34,3 +34,14 @@ To execute the Python source code for processing the dataset, install the requir
 
 ## Citation 
 
+```bibtex
+@misc{huynh2026tsbowtrafficsurveillancebenchmark,
+      title={TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions}, 
+      author={Ngoc Doan-Minh Huynh and Duong Nguyen-Ngoc Tran and Long Hoang Pham and Tai Huu-Phuong Tran and Hyung-Joon Jeon and Huy-Hung Nguyen and Duong Khac Vu and Hyung-Min Jeon and Son Hong Phan and Quoc Pham-Nam Ho and Chi Dai Tran and Trinh Le Ba Khanh and Jae Wook Jeon},
+      year={2026},
+      eprint={2602.05414},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2602.05414}, 
+}
+```

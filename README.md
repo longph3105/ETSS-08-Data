@@ -86,6 +86,8 @@ If you find our work helpful for your research, please consider citing the follo
 
 2. Real-World System
 
+We will update the citation again after the AAAI-26 proceedings publication.
+
 ```bibtex
 @misc{huynh2026tsbowtrafficsurveillancebenchmark,
       title={TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions}, 

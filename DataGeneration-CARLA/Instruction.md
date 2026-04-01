@@ -6,6 +6,7 @@ Traffic Surveillance Data Generation capable of producing various environment re
 ![gif](images/traffic_surveillance_intersection.gif)
 
 
+<!-- MARK: Finding location -->
 ## I. Finding the location on the Town
 
 Execute the command below to manually find the location on the map.

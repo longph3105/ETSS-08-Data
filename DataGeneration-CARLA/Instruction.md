@@ -6,7 +6,7 @@ Traffic Surveillance Data Generation capable of producing various environment re
 ![gif](images/traffic_surveillance_intersection.gif)
 
 
-<!-- MARK: Finding location -->
+<!-- MARK: Location -->
 ## I. Finding the location on the Town
 
 Execute the command below to manually find the location on the map.
@@ -27,6 +27,7 @@ At this time, we focus on recording at the intersection, or round about.
 Based on the location (the red circle on image above), we get the location **(x, y)** on the map.
 The location will be use the set the default parameters on next step.
 
+<!-- MARK: Angle of Cam -->
 ## II. Finding the angle of ego camera
 
 Using the location above to change make the default location of vehicle in file "client_traffic_surveillance_AUTOLAB.py"

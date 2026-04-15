@@ -113,6 +113,7 @@ python draw_from_txt_instance_segmentation_AUTOLAB.py
 
 ![gif](images/00000120.jpeg)
 
+<!-- MARK: Map Loc -->
 ## V. Location of map
 
 ### a. Town10DH

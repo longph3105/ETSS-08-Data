@@ -62,6 +62,7 @@ Finally, we find the right position of camera like image below.
 
 
 <!-- MARK: Capture img -->
+
 ## III. Capturing the raw image and segmentation image
 
 Change the weather to nighttime:

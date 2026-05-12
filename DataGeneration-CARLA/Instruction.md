@@ -29,6 +29,7 @@ The location will be use the set the default parameters on next step.
 
 
 <!-- MARK: Angle of Cam -->
+
 ## II. Finding the angle of ego camera
 
 Using the location above to change make the default location of vehicle in file "client_traffic_surveillance_AUTOLAB.py"

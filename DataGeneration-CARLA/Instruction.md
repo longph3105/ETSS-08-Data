@@ -124,6 +124,6 @@ python draw_from_txt_instance_segmentation_AUTOLAB.py
 
 ## V. Location of map
 
-### a. Town10DH
+### Town10DH
 
 ![gif](images/Town10HD.jpeg)

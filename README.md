@@ -22,7 +22,7 @@
 
 ## I. Using CARLA
 
-<details open>
+<details>
 
   <summary>Building CARLA, Instruction, and samples</summary>
 
@@ -59,7 +59,7 @@
 
   Please go to this repository for [Realistic-Traffic-Surveillance Generated Sample](https://github.com/SKKU-AutoLab-VSW/Realistic-Traffic-Surveillance_GeneratedSample)
 
-</details open>
+</details>
 
 
 <!-- MARK: TSBOW -->

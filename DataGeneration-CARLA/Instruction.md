@@ -30,6 +30,7 @@ Based on the location (the red circle on image above), we get the location **(x,
 The location will be use the set the default parameters on next step.
 
 
+
 <!-- MARK: Angle of Cam -->
 
 ## II. Finding the angle of ego camera

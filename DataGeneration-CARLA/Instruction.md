@@ -100,6 +100,7 @@ And the image would be stored in these folder:
 ```
 
 
+
 <!-- MARK: Convert dataset -->
 
 ## IV. Converting the dataset
@@ -121,6 +122,7 @@ python draw_from_txt_instance_segmentation_AUTOLAB.py
 ```
 
 ![gif](images/00000120.jpeg)
+
 
 
 <!-- MARK: Map Loc -->

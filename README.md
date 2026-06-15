@@ -68,7 +68,7 @@
 
 We are conducting a research to develop a real-world traffic surveillance system.
 
-Comprehensive, annotated dataset for object detection. This dataset consists of over 32 hours of real-world traffic surveillance data across 71 CCTV and an additional color cameras, spanning annual weather conditions (See Demo Videos). The UI for filtering scenes according to each attribute is provided in Releases: TSBOW-Filter-Scenes_v1.1 on Github repo.
+Comprehensive, annotated dataset for object detection. This dataset consists of over 32 hours of real-world traffic surveillance data across 71 CCTV and an additional color cameras, spanning annual weather conditions ([See Demo Videos](https://skkuautolab.github.io/TSBOW/TSBOW_scenes.html)). The UI for filtering scenes according to each attribute is provided in [Releases: TSBOW-Filter-Scenes_v1.1](https://github.com/SKKUAutoLab/TSBOW/releases/tag/FS_v1.1) on Github repo.
 
 Please go to [TSBOW-dataset](https://github.com/SKKUAutoLab/TSBOW) repository or [TSBOW-website](https://skkuautolab.github.io/TSBOW/) for more details.
 

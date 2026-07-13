@@ -40,8 +40,7 @@ To execute the Python source code for processing the dataset, install the requir
 
 ## Citation 
 
-We will update the citation again after the AAAI-26 proceedings publication.
-
+If you find our work helpful for your research, please consider citing the following BibTeX entry.
 ```bibtex
 @article{Huynh2026TSBOW, 
     title={TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions}, 
